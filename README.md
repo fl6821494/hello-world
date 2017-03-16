@@ -1,2 +1,3 @@
 # hello-world
-just have a try
+Hi there!
+I am new here ,I wan't to learn new skills and make myself skilled.
